@@ -1,4 +1,4 @@
 # app-aquario
-Aplicativo aquario
+Aplicativo para execução do cálculo de aquario
 
-![](img/qrcodea.png)
+![](img/qrcodeaq.png)
